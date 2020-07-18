@@ -19,7 +19,7 @@
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" />
 
-### I am Slavik Nychkalo
+# Hi, I am Slavik Nychkalo
 - An ML & Open Source enthusiast.
 - A Computer Engineering Undergraduate Student. 
 - Currently working on some of my cool side projects based on Web Development and Machine Learning.
