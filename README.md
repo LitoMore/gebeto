@@ -27,7 +27,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif" width="400" />
 
 # Hi, I am Slavik Nychkalo
-- Reverse engineering & Open Source enthusiast.
+- Web Development, Reverse engineering & Open Source enthusiast.
 - A Software Engineering Undergraduate Student. 
 - Working as Full-Stack developer ***JavaScript/TypeScript/Python*** at ***LeadSoft***.
 - I love to learn and contribute in any usefull projects.
