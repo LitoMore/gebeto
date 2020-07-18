@@ -1,26 +1,26 @@
 <a href="https://www.linkedin.com/in/gebeto" target="_blank">
-	<img src="assets/icons/linkedin.svg" width="22">
+	<img src="https://gebeto.github.io/assets/icons/linkedin.svg" width="22">
 </a>
 <a href="https://www.github.com/gebeto" target="_blank">
-	<img src="assets/icons/github.svg" width="22">
+	<img src="https://gebeto.github.io/assets/icons/github.svg" width="22">
 </a>
 <a href="https://codepen.io/gebeto" target="_blank">
-	<img src="assets/icons/codepen.svg" width="22">
+	<img src="https://gebeto.github.io/assets/icons/codepen.svg" width="22">
 </a>
 <a href="https://stackoverflow.com/users/9411955/gebeto" target="_blank">
-	<img src="assets/icons/stackoverflow.svg" width="22">
+	<img src="https://gebeto.github.io/assets/icons/stackoverflow.svg" width="22">
 </a>
 <a href="https://www.hackerrank.com/gebeto" target="_blank">
-	<img src="assets/icons/hackerrank.svg" width="22">
+	<img src="https://gebeto.github.io/assets/icons/hackerrank.svg" width="22">
 </a>
 <a href="https://www.codewars.com/users/gebeto" target="_blank">
-	<img src="assets/icons/codewars.svg" width="22">
+	<img src="https://gebeto.github.io/assets/icons/codewars.svg" width="22">
 </a>
 <a href="https://t.me/gebeto" target="_blank">
-	<img src="assets/icons/telegram.svg" width="22">
+	<img src="https://gebeto.github.io/assets/icons/telegram.svg" width="22">
 </a>
 <a href="https://www.twitter.com/slavik_nychkalo" target="_blank">
-	<img src="assets/icons/twitter.svg" width="22">
+	<img src="https://gebeto.github.io/assets/icons/twitter.svg" width="22">
 </a>
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" />
