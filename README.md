@@ -23,7 +23,8 @@
 	<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitter.svg" width="22" align="left" />
 </a>
 <br />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" />
+<!--img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" /-->
+<img align="right" alt="GIF" src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif" width="400" />
 
 # Hi, I am Slavik Nychkalo
 - Reverse engineering & Open Source enthusiast.
