@@ -1,8 +1,7 @@
 ### Hello World 👋
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
-
-![Prify Philip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gebeto&show_icons=true)
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=gebeto&show_icons=true" width="200">
 
 <!--
 **gebeto/gebeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
