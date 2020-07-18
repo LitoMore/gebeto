@@ -1,8 +1,4 @@
----
-
 ### Hello World 👋
-
----
 
 ![Prify Philip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gebeto&show_icons=true)
 
