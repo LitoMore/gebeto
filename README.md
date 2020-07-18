@@ -20,14 +20,14 @@
   <img align="left" alt="Ajay's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 </a>
 <br />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" />
 
-### I am Ajay Singh Khalsa
+### I am Slavik Nychkalo
 - An ML & Open Source enthusiast.
 - A Computer Engineering Undergraduate Student. 
 - Currently working on some of my cool side projects based on Web Development and Machine Learning.
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=gebeto&show_icons=true" width="200">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=gebeto&show_icons=true" width="400">
 
