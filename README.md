@@ -1,7 +1,7 @@
 <div align="center">
 	<br>
-	<a href="test.svg">
-		<img src="test.svg" width="800" height="400">
+	<a href="https://github.com/gebeto/gebeto/blame/master/test.svg">
+		<img src="https://github.com/gebeto/gebeto/blame/master/test.svg" width="800" height="400">
 	</a>
 	<br>
 </div>
