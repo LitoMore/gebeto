@@ -1,3 +1,11 @@
+<div align="center">
+	<br>
+	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/master/header.svg">
+		<img src="header.svg" width="800" height="400">
+	</a>
+	<br>
+</div>
+
 <a href="https://www.linkedin.com/in/gebeto" target="_blank">
 	<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" width="22" align="left" />
 </a>
