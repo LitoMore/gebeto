@@ -36,8 +36,8 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=gebeto&show_icons=true" width="400">
 
 
-<div align="center">
+<!--div align="center">
 	<a href="https://github.com/gebeto/gebeto/blob/master/test.svg">
 		<img src="https://github.com/gebeto/gebeto/blob/master/test.svg" width="100%"/>
 	</a>
-</div>
+</div-->
