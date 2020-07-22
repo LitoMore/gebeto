@@ -1,11 +1,3 @@
-<div align="center">
-	<br>
-	<a href="https://github.com/gebeto/gebeto/blob/master/test.svg">
-		<img src="https://github.com/gebeto/gebeto/blob/master/test.svg" width="800" height="400">
-	</a>
-	<br>
-</div>
-
 <a href="https://www.linkedin.com/in/gebeto" target="_blank">
 	<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" width="22" align="left" />
 </a>
@@ -43,3 +35,11 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=gebeto&show_icons=true" width="400">
 
+
+<div align="center">
+	<br>
+	<a href="https://github.com/gebeto/gebeto/blob/master/test.svg">
+		<img src="https://github.com/gebeto/gebeto/blob/master/test.svg" width="100%" >
+	</a>
+	<br>
+</div>
