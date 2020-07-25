@@ -37,7 +37,7 @@
 
 
 <div align="center">
-	<!--a href="https://github.com/gebeto/gebeto/blob/master/test.svg">
+	<!--a href="https://github.com/gebeto/gebeto/blob/master/test.svg"-->
 		<img src="https://github.com/gebeto/gebeto/blob/master/test.svg" width="100%"/>
-	</a-->
+	<!--/a-->
 </div>
