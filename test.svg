@@ -77,8 +77,11 @@
 				}
 			</style>
 			<div class="container">
-				<h1>Hello everyone!</h1>
+				<h1 id="title">Hello everyone!</h1>
 			</div>
+			<script>
+				document.getElementById("title").addEventListener("click", (e) => { e.target.textContent = e.target.textContent + "!" });
+			</script>
 		</div>
 	</foreignObject>
 </svg>
