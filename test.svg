@@ -80,7 +80,10 @@
 				<h1 id="title">Hello everyone!</h1>
 			</div>
 			<script>
-				document.getElementById("title").addEventListener("click", (e) => { e.target.textContent = e.target.textContent + "!" });
+				var el = document.getElementById("title");
+				setInterval(() => {
+					el.textContent = el.textContent + '!';
+				}, 1000);
 			</script>
 		</div>
 	</foreignObject>
