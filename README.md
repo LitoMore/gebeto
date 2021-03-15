@@ -1,8 +1,8 @@
-<a href="https://www.linkedin.com/in/gebeto" target="_blank">
-	<code>
-		<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" width="22" align="left" />
-	</code>
-</a>
+<code>
+	<a href="https://www.linkedin.com/in/gebeto" target="_blank">
+			<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" width="22" align="left" />
+	</a>
+</code>
 <a href="https://www.github.com/gebeto" target="_blank">
 	<code>
 		<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" width="22" align="left" />
