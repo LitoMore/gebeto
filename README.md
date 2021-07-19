@@ -29,7 +29,7 @@
 # Hi, I am Slavik Nychkalo
 - Web Development, Reverse engineering & Open Source enthusiast.
 - A Software Engineering Undergraduate Student. 
-- Working as Full-Stack developer ***JavaScript/TypeScript/Python*** at ***LeadSoft***.
+- Working as Full-Stack developer ***JavaScript/TypeScript/Python*** at ***[SPSoft](https://spsoft.com)***.
 - I love to learn and contribute in any usefull projects.
 
 
