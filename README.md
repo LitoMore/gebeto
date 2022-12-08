@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/gebeto" target="_blank">
-	<picture>
+	<picture align="left">
 	  <source media="(prefers-color-scheme: dark)" srcset="./icons/dark/linkedin.svg" width="22">
 	  <img src="./icons/light/linkedin.svg" width="22">
 	</picture>
