@@ -33,7 +33,13 @@
 - I love to learn and contribute in any usefull projects.
 
 
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=gebeto&theme=transparent&show_icons=true&hide_border=true" width="400">
+<!--img align="left" src="https://github-readme-stats.vercel.app/api?username=gebeto&show_icons=true&hide_border=true" width="400"-->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gebeto&show_icons=true&hide_border=true&theme=dark&bg_color=0d1116" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=gebeto&show_icons=true&hide_border=true" width="400">
+</picture>
+
 
 <!--img src="https://github-readme-streak-stats.herokuapp.com?user=gebeto&hide_border=true" alt="mystreak"/-->
 
