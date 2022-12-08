@@ -5,7 +5,10 @@
 	</picture>
 </a>
 <a href="https://www.github.com/gebeto" target="_blank">
-	<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" width="22" align="left" />
+	<picture>
+	  <source media="(prefers-color-scheme: dark)" srcset="./icons/dark/github.svg" width="22" align="left">
+	  <img src="./icons/light/github.svg" width="22" align="left">
+	</picture>
 </a>
 <a href="https://codepen.io/gebeto" target="_blank">
 	<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codepen.svg" width="22" align="left" />
