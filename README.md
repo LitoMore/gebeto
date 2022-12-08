@@ -1,5 +1,8 @@
 <a href="https://www.linkedin.com/in/gebeto" target="_blank">
-	<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" width="22" align="left" />
+	<picture>
+	  <source media="(prefers-color-scheme: dark)" srcset="./icons/dark/linkedin.svg" width="22">
+	  <img src="./icons/light/linkedin.svg" width="22">
+	</picture>
 </a>
 <a href="https://www.github.com/gebeto" target="_blank">
 	<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" width="22" align="left" />
