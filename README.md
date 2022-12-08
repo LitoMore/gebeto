@@ -22,12 +22,6 @@
 	  <img src="./icons/light/stackoverflow.svg" width="22" align="left">
 	</picture>
 </a>
-<a href="https://www.hackerrank.com/gebeto" target="_blank">
-	<picture>
-	  <source media="(prefers-color-scheme: dark)" srcset="./icons/dark/hackerrank.svg" width="22" align="left">
-	  <img src="./icons/light/hackerrank.svg" width="22" align="left">
-	</picture>
-</a>
 <a href="https://www.codewars.com/users/gebeto" target="_blank">
 	<picture>
 	  <source media="(prefers-color-scheme: dark)" srcset="./icons/dark/codewars.svg" width="22" align="left">
