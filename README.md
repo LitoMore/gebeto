@@ -11,22 +11,40 @@
 	</picture>
 </a>
 <a href="https://codepen.io/gebeto" target="_blank">
-	<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codepen.svg" width="22" align="left" />
+	<picture>
+	  <source media="(prefers-color-scheme: dark)" srcset="./icons/dark/codepen.svg" width="22" align="left">
+	  <img src="./icons/light/codepen.svg" width="22" align="left">
+	</picture>
 </a>
 <a href="https://stackoverflow.com/users/9411955/gebeto" target="_blank">
-	<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/stackoverflow.svg" width="22" align="left" />
+	<picture>
+	  <source media="(prefers-color-scheme: dark)" srcset="./icons/dark/stackoverflow.svg" width="22" align="left">
+	  <img src="./icons/light/stackoverflow.svg" width="22" align="left">
+	</picture>
 </a>
 <a href="https://www.hackerrank.com/gebeto" target="_blank">
-	<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" width="22" align="left" />
+	<picture>
+	  <source media="(prefers-color-scheme: dark)" srcset="./icons/dark/hackerrank.svg" width="22" align="left">
+	  <img src="./icons/light/hackerrank.svg" width="22" align="left">
+	</picture>
 </a>
 <a href="https://www.codewars.com/users/gebeto" target="_blank">
-	<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codewars.svg" width="22" align="left" />
+	<picture>
+	  <source media="(prefers-color-scheme: dark)" srcset="./icons/dark/codewars.svg" width="22" align="left">
+	  <img src="./icons/light/codewars.svg" width="22" align="left">
+	</picture>
 </a>
 <a href="https://t.me/gebeto" target="_blank">
-	<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/telegram.svg" width="22" align="left" />
+	<picture>
+	  <source media="(prefers-color-scheme: dark)" srcset="./icons/dark/telegram.svg" width="22" align="left">
+	  <img src="./icons/light/telegram.svg" width="22" align="left">
+	</picture>
 </a>
-<a href="https://www.twitter.com/slavik_nychkalo" target="_blank">
-	<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitter.svg" width="22" align="left" />
+<a href="https://www.twitter.com/_pupiti" target="_blank">
+	<picture>
+	  <source media="(prefers-color-scheme: dark)" srcset="./icons/dark/twitter.svg" width="22" align="left">
+	  <img src="./icons/light/twitter.svg" width="22" align="left">
+	</picture>
 </a>
 <br />
 <!--img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" /-->
